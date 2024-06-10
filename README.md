@@ -13,5 +13,5 @@ Meu nome é Duda
 @dudafps
 
 ![]()
-<img src="https://media1.tenor.com/m/OjV_AI7mIVYAAAAd/alexademie-maddy-perez.gif" alt="
+https://media1.tenor.com/m/OjV_AI7mIVYAAAAd/alexademie-maddy-perez.gif"
 
