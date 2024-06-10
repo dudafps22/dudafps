@@ -13,6 +13,6 @@ Meu nome é Duda
 @dudafps
 
 ![]()
-<img src="https://media1.tenor.com/m/cL7OmSccESQAAAAC/maddy-perez-alexa-demie.gif" alt="Maddy Perez Alexa Demie GIF - Maddy Perez Alexa Demie Euphoria GIFs"/>!
+<img src="https://media1.tenor.com/m/cL7OmSccESQAAAAC/maddy-perez-alexa-demie.gif" alt="Maddy Perez Alexa Demie GIF - Maddy Perez Alexa Demie Euphoria GIFs"/>
 
 
